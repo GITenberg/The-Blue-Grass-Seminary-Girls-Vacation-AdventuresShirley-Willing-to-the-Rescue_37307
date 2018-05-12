@@ -17,6 +17,8 @@ creator:
     gutenberg_agent_id: '38762'
     url: http://www.gutenberg.org/2009/agents/38762
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/37307#The-Blue-Grass-Seminary-Girls-Vacation-AdventuresShirley-Willing-to-the-Rescue
 gutenberg_issued: '2011-09-03'
 gutenberg_type: Text
 identifiers:
